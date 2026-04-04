@@ -107,7 +107,7 @@
 	{
 		"gameIndex": "games/bloxorz/index.html",
 		"gameName": "Bloxorz",
-		"popular": false,
+		"popular": true,
 		"description": "testing",
 		"details": {
 			"Release Date": "August 22nd, 2007",
@@ -483,7 +483,7 @@
 	{
 		"gameIndex": "games/pokemonemerald/index.html",
 		"gameName": "Pokemon: Emerald",
-		"popular": true
+		"popular": false
 	},
 	{
 		"gameIndex": "games/pokemonfirered/index.html",
