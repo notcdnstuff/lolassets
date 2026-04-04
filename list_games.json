@@ -108,6 +108,7 @@
 		"gameIndex": "games/bloxorz/index.html",
 		"gameName": "Bloxorz",
 		"popular": false,
+		"description": "testing",
 		"details": {
 			"Release Date": "August 22nd, 2007",
 			"Emulator": "Flash",
