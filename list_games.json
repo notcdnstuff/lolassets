@@ -1,5 +1,15 @@
 [
 	{
+		"gameIndex": "games/5nightsatepstein/index.html",
+		"gameName": "5 Nights at Epstein's",
+		"popular": true
+	},
+	{
+		"gameIndex": "games/12minibattles/index.html",
+		"gameName": "12 Mini Battles",
+		"popular": true
+	},
+	{
 		"gameIndex": "games/3dcity/index.html",
 		"gameName": "3D.CITY",
 		"popular": false
