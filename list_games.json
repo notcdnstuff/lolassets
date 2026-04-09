@@ -1,5 +1,11 @@
 [
 	{
+		"gameIndex": "games/marioparty/index.html",
+		"gameName": "Mario Party",
+		"popular": false,
+		"description": "Please excuse the loading time. Give 20-30 seconds to load."
+	},
+	{
 		"gameIndex": "games/5nightsatepstein/index.html",
 		"gameName": "5 Nights at Epstein's",
 		"popular": true
