@@ -1,10 +1,5 @@
 [
 	{
-		"gameIndex": "games/eagcraft/index.html",
-		"gameName": "Eaglercraft",
-		"popular": true
-	},
-	{
 		"gameIndex": "games/pokemonsnap/index.html",
 		"gameName": "Pokemon Snap",
 		"popular": false,
