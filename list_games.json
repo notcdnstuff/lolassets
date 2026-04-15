@@ -1,5 +1,15 @@
 [
 	{
+		"gameIndex": "games/blackjack/index.html",
+		"gameName": "Blackjack",
+		"popular": false
+	},
+	{
+		"gameIndex": "games/drifthunters/index.html",
+		"gameName": "Drift Hunters",
+		"popular": true
+	},
+	{
 		"gameIndex": "games/eagcraft/index.html",
 		"gameName": "Eagcraft",
 		"popular": true
@@ -64,12 +74,12 @@
 	{
 		"gameIndex": "games/badtimesimulator/index.html",
 		"gameName": "Bad Time Simulator",
-		"popular": true
+		"popular": false
 	},
 	{
 		"gameIndex": "games/balatro/index.html",
 		"gameName": "Balatro",
-		"popular": true
+		"popular": false
 	},
 	{
 		"gameIndex": "games/basketballstars/index.html",
@@ -200,12 +210,12 @@
 	{
 		"gameIndex": "games/deltarune/index.html",
 		"gameName": "DELTARUNE",
-		"popular": true
+		"popular": false
 	},
 	{
 		"gameIndex": "games/douchebaglife/index.html",
 		"gameName": "Douchebag Life",
-		"popular": false
+		"popular": true
 	},
 	{
 		"gameIndex": "games/douchebagworkout2/index.html",
@@ -285,7 +295,7 @@
 	{
 		"gameIndex": "games/fnafucn/index.html",
 		"gameName": "FNAF: UCN",
-		"popular": true
+		"popular": false
 	},
 	{
 		"gameIndex": "games/fnafworld/index.html",
@@ -445,7 +455,7 @@
 	{
 		"gameIndex": "games/papasfreezeria/index.html",
 		"gameName": "Papa's Freezeria",
-		"popular": true
+		"popular": false
 	},
 	{
 		"gameIndex": "games/papaspancakeria/index.html",
@@ -505,7 +515,7 @@
 	{
 		"gameIndex": "games/pokemonfirered/index.html",
 		"gameName": "Pokemon: Fire Red",
-		"popular": true
+		"popular": false
 	},
 	{
 		"gameIndex": "games/pokemonleafgreen/index.html",
@@ -675,7 +685,7 @@
 	{
 		"gameIndex": "games/subwaysurferszurich/index.html",
 		"gameName": "Subway Surfers: Zurich",
-		"popular": true
+		"popular": false
 	},
 	{
 		"gameIndex": "games/superhot/index.html",
@@ -745,7 +755,7 @@
 	{
 		"gameIndex": "games/undertale/index.html",
 		"gameName": "UNDERTALE",
-		"popular": true
+		"popular": false
 	},
 	{
 		"gameIndex": "games/undertaleyellow/index.html",
