@@ -1,5 +1,10 @@
 [
 	{
+		"gameIndex": "games/golfsunday/index.html",
+		"gameName": "Golf Sunday",
+		"popular": true
+	},
+	{
 		"gameIndex": "games/blackjack/index.html",
 		"gameName": "Blackjack",
 		"popular": false
@@ -25,11 +30,6 @@
 		"gameName": "Mario Party",
 		"popular": false,
 		"description": "Please excuse the loading time. Give 20-30 seconds to load."
-	},
-	{
-		"gameIndex": "games/5nightsatepstein/index.html",
-		"gameName": "5 Nights at Epsteins",
-		"popular": true
 	},
 	{
 		"gameIndex": "games/12minibattles/index.html",
